@@ -1,0 +1,14 @@
+.product-list {
+  padding: 10px;
+  display: flex;
+  flex-wrap: inherit;
+  align-items: center;
+  justify-content: flex-start;
+  background-color: white;
+}
+.product-list__item {
+  list-style: none;
+  width: auto;
+  align-items: inherit;
+  justify-content: space-evenly;
+}
